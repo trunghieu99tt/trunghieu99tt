@@ -3,6 +3,8 @@
 
 My name is Trung Hieu Nguyen (aka Rikikudo) and I'm a web developer from Viet nam, I'm living in Ha noi and currently working at Tigren Solutions. 
 
+![](https://komarev.com/ghpvc/?username=trunghieu99tt)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualscode&logoColor=white&color=2bbc8a)
