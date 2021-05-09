@@ -1,7 +1,7 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 
-My name is Trung Hieu Nguyen (aka Rikikudo) and I'm a web developer from Viet nam, I'm living in Ha noi and currently working at Tigren Solutions. 
+My name is Trung Hieu Nguyen (aka Rikikudo) and I'm a web developer from Viet nam, I'm living in Ha noi and currently working at R. 
 
 ![](https://komarev.com/ghpvc/?username=trunghieu99tt)
 
