@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trunghieu99tt" alt="trunghieu99tt" /></a> </p>
 
-- 🌱 I’m currently learning **Java and NodeJS**
+- 🌱 I’m currently working as a Full stack developer
 
 - 👨‍💻 All of my projects are available at [https://rikikudo.herokuapp.com/](https://rikikudo.herokuapp.com/)
 
