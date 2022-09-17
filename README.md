@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://rikikudo.herokuapp.com/](https://rikikudo.herokuapp.com/)
 
-- 📝 I regularly write articles on [https://codethisshit.vercel.app/](https://codethisshit.vercel.app/)
+- 📝 I regularly write articles on [https://whowrotethisshit.vercel.app/](https://whowrotethisshit.vercel.app/)
 
-- 💬 Ask me about **ReactJS, Javascript, HTML, CSS**
+- 💬 Ask me about **ReactJS, NodeJS**
 
 - 📫 How to reach me **trunghieu99tt@gmail.com**
 
