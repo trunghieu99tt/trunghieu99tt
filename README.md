@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently working as a Full stack developer
 
-- 👨‍💻 All of my projects are available at [https://rikikudo.herokuapp.com/](https://rikikudo.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://rikikudo.netlify.app/](https://rikikudo.netlify.app/)
 
-- 📝 I regularly write articles on [https://whowrotethisshit.vercel.app/](https://whowrotethisshit.vercel.app/)
+- 📝 I ~regularly~ sometimes write articles on [https://whowrotethisshit.vercel.app/](https://whowrotethisshit.vercel.app/)
 
-- 💬 Ask me about **ReactJS, NodeJS**
+- 💬 Ask me about **Javascript, Database and System Design**
 
 - 📫 How to reach me **trunghieu99tt@gmail.com**
 
