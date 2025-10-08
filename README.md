@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://rikikudo.netlify.app/](https://rikikudo.netlify.app/)
 
-- 📝 I ~regularly~ sometimes write articles on [https://whowrotethisshit.vercel.app/](https://whowrotethisshit.vercel.app/)
+- 📝 I ~regularly~ sometimes write articles on [https://blog.hieunt.me/](https://blog.hieunt.me/)
 
-- 💬 Ask me about **Javascript, Database and System Design**
+- 💬 Ask me about **Distributed Systems**
 
 - 📫 How to reach me **trunghieu99tt@gmail.com**
 
