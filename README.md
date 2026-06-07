@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyen Trung Hieu (aka Ricky Nguyen)</h1>
+<h1 align="center">Hi 👋, I'm Hieu (Elliot) Nguyen </h1>
 <h3 align="center">A passionate software engineer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trunghieu99tt&label=Profile%20views&color=0e75b6&style=flat" alt="trunghieu99tt" /> </p>
